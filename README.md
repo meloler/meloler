@@ -8,11 +8,11 @@ Especializado en transformar la complejidad operativa en sistemas automatizados 
 
 🔍 **[web-juan-cv.vercel.app](https://web-juan-cv.vercel.app/)** — Digital Twin & Portfolio.
 
-## Core Projects
+## Cosas con las que me divierto:
 
 - 🎭 **[agenda-cultural-gc-v2](https://github.com/meloler/agenda-cultural-gc-v2)** — Pipeline de precisión: Scraping masivo, auditoría con "Deep Scrape" y geolocalización avanzada de eventos.
-- ⚙️ **GPI-SaaS-MVP** — Plataforma MVP para la gestión y optimización de procesos industriales.
-- 🧾 **facturas-ordenadas** — SaaS privado de clasificación y extracción de datos contables mediante OCR e IA.
+- ⚙️ **[GPI-SaaS-MVP](https://github.com/meloler/GPI-SaaS-MVP)** — Plataforma MVP para la gestión y optimización de procesos industriales.
+- 🧾 **[facturas-ordenadas](https://github.com/meloler/facturas-ordenadas)** — SaaS privado de clasificación y extracción de datos contables mediante OCR e IA.
 - 🎡 **[pasapalabra-mama](https://github.com/meloler/pasapalabra-mama)** — Desarrollo de lógica de juego interactiva personalizada. (Beta muy beta)
 - 🤖 **irrigenius-assistant** — Asistente inteligente para la optimización de recursos en sistemas de riego.
 - 📮 **[digital-postcard-2025](https://github.com/meloler/digital-postcard-2025)** — Experiencia web interactiva con Next.js y Framer Motion.

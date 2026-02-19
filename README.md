@@ -21,7 +21,9 @@ Especializado en transformar la complejidad operativa en sistemas automatizados 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meloler&show_icons=true&theme=default&count_private=true&hide_border=true" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meloler&show_icons=true&count_private=true&hide_border=true" alt="Github Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meloler&layout=compact&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
